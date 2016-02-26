@@ -1,22 +1,22 @@
 
 
-# N/A
+# Amended and Restated Certificate of Incorporation - NVCA - John
 
 ## Version and updates
 
-N/A
+1.0
 
-Created: N/A | Last modified: N/A
+Created: February 23, 2016  7:04:21 EST | Last modified: February 24, 2016  8:00:34 EST
 
 ## Permalinks
 
-Valcu Permalink: N/A
+Valcu Permalink: https://valcu.co/users/mark/doc_templates/amended-and-restated-certificate-of-incorporation-nvca-john-v1_0-18
 
-Repository Permalink: N/A
+Repository Permalink: https://github.com/valcucodev/amended-and-restated-certificate-of-incorporation-nvca-john-v1_0-18
 
 ## Synopsis
 
-None
+Amended and Restated Certificate of Incorporation - NVCA - John
 
 ## Notes
 
